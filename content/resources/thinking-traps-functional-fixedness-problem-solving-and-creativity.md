@@ -1,0 +1,15 @@
+---
+content_type: resource
+description: ''
+file: null
+resourcetype: Video
+title: 'Thinking Traps: Functional Fixedness, Problem Solving, and Creativity'
+uid: 2c7d07cb-f97b-b30f-ec06-1957f126af56
+video_files:
+  archive_url: http://www.archive.org/download/MIT9.00SCF11/MIT9_00SCF11_lec12_300k.mp4
+  video_captions_file: /courses/9-00sc-introduction-to-psychology-fall-2011/b22897e5a23759d1b714372c5bdd70a2_gRe7dy2HSTg.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/gRe7dy2HSTg/default.jpg
+  video_transcript_file: /courses/9-00sc-introduction-to-psychology-fall-2011/ffa96f84059643c3b7f7a906ef213d64_gRe7dy2HSTg.pdf
+video_metadata:
+  youtube_id: gRe7dy2HSTg
+---
