@@ -1,0 +1,15 @@
+---
+content_type: resource
+description: ''
+file: null
+resourcetype: Video
+title: Concepts of Stress
+uid: a412bc98-2267-d790-5e3e-80177ab18559
+video_files:
+  archive_url: http://www.archive.org/download/MIT9.00SCF11/MIT9_00SCF11_lec02_300k.mp4
+  video_captions_file: /courses/9-00sc-introduction-to-psychology-fall-2011/892616e4d0455bc68c00d76c904ab34d_syXplPKQb_o.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/syXplPKQb_o/default.jpg
+  video_transcript_file: /courses/9-00sc-introduction-to-psychology-fall-2011/20fe63d39f98a71c6c35008af82913c9_syXplPKQb_o.pdf
+video_metadata:
+  youtube_id: syXplPKQb_o
+---
